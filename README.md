@@ -1,4 +1,2 @@
-### BKİ Programı
-Java dilini öğrenme sürecimde ilk projem olarak sizler için basit bir BEDEN KİTLE INDEKSİ programı geliştirdim.
-daha sonraki projelerde görüşmek dileğiyle...
----
+### Java-Learning-Journey
+Merhaba, burası benim Java öğrenme serüvenim. Yaptığım mini projeleri burada topluyorum.
