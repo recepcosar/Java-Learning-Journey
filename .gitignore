@@ -8,6 +8,33 @@ out/
 *.iws
 *.ipr
 
+# IntelliJ IDEA - User-specific files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/compiler.xml
+.idea/**/encodings.xml
+
+# IntelliJ IDEA - Cache files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# IntelliJ IDEA - Gradle files
+.idea/gradle.xml
+.idea/libraries
+
+# IntelliJ IDEA - Module files (keep project level, ignore module level)
+**/modules.xml
+**/*.iml
+!.idea/modules.xml
+
 # Eclipse files
 .classpath
 .project
