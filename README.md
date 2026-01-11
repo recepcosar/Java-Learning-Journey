@@ -10,5 +10,8 @@ Merhaba! Burası Java öğrenirken geliştirdiğim mini projeleri ve aldığım 
 **2. [Yakıt Masrafı Hesaplama](./YakitMasrafiHesaplama)**
 > Gidilen yola ve aracın tüketimine göre toplam tutarı hesaplayan program.
 
+### 3. [Değişken Değiştirme (Swap)](./03DegiskenDegistirme) 🔄
+> İki sayının değerini üçüncü bir değişken kullanarak birbiriyle takas eden (Swap mantığı) temel algoritma çalışması.
+
 ---
 *Bu depo benim gelişim sürecimi göstermektedir.*
